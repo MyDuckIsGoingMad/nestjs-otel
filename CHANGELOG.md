@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://www.github.com/pragmaticivan/nestjs-otel/compare/v3.0.4...v3.1.0) (2022-05-02)
+
+
+### Features
+
+* **build:** update dependencies ([c2f8b7b](https://www.github.com/pragmaticivan/nestjs-otel/commit/c2f8b7b9fbe116953521fb6b5d7f4648d09d7712))
+
 ### [3.0.4](https://www.github.com/pragmaticivan/nestjs-otel/compare/v3.0.3...v3.0.4) (2022-03-29)
 
 
